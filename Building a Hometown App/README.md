@@ -11,5 +11,9 @@
 2. use patterns to style the pages so that it works across different devices
 3. test web pages on multiple phones, tablets, browsers window sizes
 
-
+## Part3
+1. update the sports score table
+2. make text fits naturally on the page
+3. add some minor breakpoints
+4. replace some images with responsive images
 
