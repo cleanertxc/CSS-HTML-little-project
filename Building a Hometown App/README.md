@@ -7,4 +7,9 @@
 4. test the site across different viewports. Try it on different phones, tablets, and desktops.
    
 ## Part2
+1. choose and implement a set of breakpoints
+2. use patterns to style the pages so that it works across different devices
+3. test web pages on multiple phones, tablets, browsers window sizes
+
+
 
